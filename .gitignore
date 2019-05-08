@@ -25,3 +25,4 @@ test/fixtures/example-ts-ets/typings/
 package-lock.json
 .nyc_output
 yarn.lock
+.idea
